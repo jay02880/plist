@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mall.4247</string>
+				<string>com.mx.shopkeeper</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>mx-006</string>
+				<string>全民掌櫃</string>
 			</dict>
 		</dict>
 	</array>
